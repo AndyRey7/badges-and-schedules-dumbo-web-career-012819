@@ -11,7 +11,8 @@ def batch_badge_creator(msg)
 end
 
 def assign_rooms(assign)
-  return []
+  array = []
+  index = 1 
 end
 
 def printer
