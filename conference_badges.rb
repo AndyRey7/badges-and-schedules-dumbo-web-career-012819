@@ -20,7 +20,12 @@ def assign_rooms(assign)
   return array
 end
 
-def printer
-  puts batch_badge_creator
-  puts assign_rooms
+def printer(group)
+  batch_badge_creator(group).each do |name|
+    puts name
+  end
+  
+  assign_rooms(group).each do |name|
+    puts name
+  end
 end
