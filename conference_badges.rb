@@ -4,6 +4,7 @@ end
 
 def batch_badge_creator(msg)
    array = []
+   msg.each do
 end
 
 def assign_rooms(assign)
