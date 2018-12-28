@@ -14,6 +14,7 @@ def assign_rooms(assign)
   array = []
   index = 1 
   assign.each do |name|
+    array.push("Hello, my name is #{name}")
 end
 
 def printer
