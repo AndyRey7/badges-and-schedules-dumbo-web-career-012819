@@ -13,6 +13,7 @@ end
 def assign_rooms(assign)
   array = []
   index = 1 
+  
 end
 
 def printer
