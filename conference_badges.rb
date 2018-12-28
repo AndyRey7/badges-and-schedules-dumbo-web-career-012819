@@ -12,5 +12,5 @@ def assign_rooms
 end
 
 def printer
-  
+  puts assign_rooms
 end
