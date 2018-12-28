@@ -13,7 +13,7 @@ end
 def assign_rooms(assign)
   array = []
   index = 1 
-  
+  assign.each do |name|
 end
 
 def printer
