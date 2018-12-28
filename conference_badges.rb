@@ -3,7 +3,7 @@ def badge_maker(n)
 end
 
 def batch_badge_creator(msg)
-   return [msg]
+   return []
 end
 
 def assign_rooms(assign)
@@ -11,5 +11,6 @@ def assign_rooms(assign)
 end
 
 def printer
+  puts batch_badge_creator
   puts assign_rooms
 end
