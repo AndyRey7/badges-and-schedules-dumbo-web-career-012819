@@ -3,7 +3,7 @@ def badge_maker(n)
 end
 
 def batch_badge_creator(msg)
-   return []
+   
 end
 
 def assign_rooms(assign)
